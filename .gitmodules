@@ -1,3 +1,6 @@
 [submodule "curso-git-fatec"]
 	path = curso-git-fatec
 	url = ./curso-git-fatec
+[submodule "github_curso_git_fatec"]
+	path = github_curso_git_fatec
+	url = git@github.com:rhiroyuki/curso-git-fatec.git
