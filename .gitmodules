@@ -4,3 +4,6 @@
 [submodule "github_curso_git_fatec"]
 	path = github_curso_git_fatec
 	url = git@github.com:rhiroyuki/curso-git-fatec.git
+[submodule "programacao-web"]
+	path = programacao-web
+	url = git@bitbucket.org:rhiroyuki/programacao-web.git
